@@ -103,3 +103,4 @@ python ai_translator/main.py --model_type GLMModel --glm_model_url $GLM_MODEL_UR
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.# Translactor-2.0
 # Translactor-2.0
+# Translactor-2.0
