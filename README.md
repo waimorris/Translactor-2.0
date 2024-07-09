@@ -40,7 +40,7 @@ The OpenAI Translator is still in its early stages of development, and I'm activ
 
 ### Environment Setup
 
-1.Clone the repository `git clone git@github.com:DjangoPeng/openai-translator.git`.
+1.Clone the repository `git clone git@github.com:waimorris/Translactor-2.0.git`.
 
 2.The `OpenAI-Translator` requires Python 3.6 or later. Install the dependencies with `pip install -r requirements.txt`.
 
