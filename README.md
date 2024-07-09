@@ -33,7 +33,7 @@ The OpenAI Translator is still in its early stages of development, and I'm activ
 - [X] Flexible configuration through a YAML file or command-line arguments.
 - [X] Timeouts and error handling for robust translation operations.
 - [X] Modular and object-oriented design for easy customization and extension.
-- [X] Implement a graphical user interface (GUI) with style for easier use. Based on [Selected Project ](https://github.com/DjangoPeng/openai-quickstart/tree/main/openai-translator/ai_translator) 
+- [X] Implement a graphical user interface (GUI) with translate style for easier use. Based on [Selected Project ](https://github.com/DjangoPeng/openai-quickstart/tree/main/openai-translator/ai_translator) 
 
 
 ## Getting Started
